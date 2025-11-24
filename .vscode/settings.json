@@ -1,0 +1,8 @@
+{
+    "editor.mouseWheelScrollSensitivity": 3,
+    "workbench.list.mouseWheelScrollSensitivity": 3,
+    "terminal.integrated.mouseWheelScrollSensitivity": 3,
+    "python.languageServer": "Pylance",
+    "python.analysis.useLibraryCodeForTypes": true,
+    "python.analysis.typeCheckingMode": "basic"
+}
