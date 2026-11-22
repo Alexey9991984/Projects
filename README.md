@@ -5,7 +5,7 @@ A portfolio of data analysis projects using Python, SQL, and Power BI.
 ## Projects
 
 - [Kołobrzeg Property Analytics](PROJECTS/kolobrzeg-property-analytics/) — Explore real-estate transactions and house sales around Kołobrzeg with PostgreSQL and Power BI.
-- [Netflix Content Analysis](PROJECTS/netflix_top_countries/) — Explore Netflix titles by country, genre, and year in Jupyter notebooks.
+- [Netflix Content Analysis](https://github.com/Alexey9991984/netflix-content-analysis) — Explore Netflix titles by country, genre, and year in Jupyter notebooks.
 
 ## Repository layout
 
