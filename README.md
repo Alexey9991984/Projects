@@ -1,12 +1,8 @@
-# Analytics Projects
+# Analytics Projects Archive
 
-A portfolio of data analysis projects using Python, SQL, and Power BI.
+The analyses now live in their own repositories:
 
-## Projects
+- [Kołobrzeg Property Analytics](https://github.com/Alexey9991984/kolobrzeg-property-analytics)
+- [Netflix Content Analysis](https://github.com/Alexey9991984/netflix-content-analysis)
 
-- [Kołobrzeg Property Analytics](PROJECTS/kolobrzeg-property-analytics/) — Explore real-estate transactions and house sales around Kołobrzeg with PostgreSQL and Power BI.
-
-## Repository layout
-
-- `PROJECTS/` contains the individual projects and their documentation.
-- `.vscode/` contains editor settings.
+This repository preserves the original project history. The Netflix notebooks link to the dataset at a fixed commit in this repository.
